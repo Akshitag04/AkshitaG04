@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/data%20visualization-%23FF4081.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
@@ -42,6 +41,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyalakshita&theme=default&hide_border=false" alt="GitHub Streak"/>
+</p>
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitag04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
