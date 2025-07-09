@@ -35,11 +35,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshitag04&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Akshita's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalakshita&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Akshita's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshitag04&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyalakshita&theme=default&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
